@@ -1,4 +1,4 @@
-<h1 align="center">Oi, você esta no perfil de Arthur Ritzel👋</h1>
+<h1 align="center">Olá, você esta no perfil de Arthur Ritzel👋</h1>
 
 
 <p align="center">📚Estudante de Engenharia de Software👾</p>

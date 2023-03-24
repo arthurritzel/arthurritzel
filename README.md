@@ -4,7 +4,7 @@
 💻Estudante de Engenharia de Software
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurritzel&show_icons=true&theme=dark)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurritzel&theme=dark&hide_border=false&&layout=compact"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurritzel&theme=dark&hide_border=false&&layout=compact"/>
 
 <div> 
   <a href="https://instagram.com/arthur_ritzel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

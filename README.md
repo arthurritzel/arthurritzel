@@ -12,14 +12,15 @@
   <a href="https://instagram.com/arthur_ritzel/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href = "mailto:ritzelarthur@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/arthur-burkhard-ritzel-4716a6261/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://arthurritzel.github.io/portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/-Arthur_Ritzel-darkblue?style=for-the-badge&logo=airbrakedotio&logoColor=white">
+  </a>
+  <a href = "https://github.com/arthurritzel/aritzel_npm.git" target="_blank">
+  <img src="https://img.shields.io/badge/-npx aritzel-%23333?style=for-the-badge&logo=windowsterminal&logoColor=white">
+  </a>
 </div>
 
 <picture>

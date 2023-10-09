@@ -18,7 +18,7 @@
   <a href="https://arthurritzel.github.io/portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/-Arthur_Ritzel-darkblue?style=for-the-badge&logo=airbrakedotio&logoColor=white">
   </a>
-  <a href = "https://github.com/arthurritzel/aritzel_npm.git" target="_blank">
+  <a href = "https://www.npmjs.com/package/aritzel" target="_blank">
   <img src="https://img.shields.io/badge/-npx aritzel-%23333?style=for-the-badge&logo=windowsterminal&logoColor=white">
   </a>
 </div>

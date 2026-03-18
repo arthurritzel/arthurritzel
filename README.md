@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working at Terceirizemais as a developer<br>🌱 I’m currently learning Mobile Development<br>💬 I’m currently pursuing a degree in Software Engineering<br>⚡ Fun fact: I know how to center a div
+🔭 I’m currently working at Sicredi<br>💬 I’m currently pursuing a degree in Software Engineering<br>⚡ Fun fact: I know how to center a div
 
 
 ## 🌐 Socials:
